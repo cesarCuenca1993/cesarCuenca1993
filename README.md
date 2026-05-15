@@ -1,4 +1,4 @@
-# César Cuenca Pérez - Java Developer (Junior)
+# César Cuenca Pérez 
 
 Programador Java en formación con experiencia en desarrollo de software, bases de datos, sistemas y desarrollo web.
 
